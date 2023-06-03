@@ -36,7 +36,7 @@ tr:nth-child(even) {
 				<div class="b">	
 				
 			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;	<img src="images/vedas-logo.png" width="140" height="140"  alt="Silver logo" align="middle"/> 
-				<font size="+4">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<strong>School Management System</strong></p></font>
+				<font size="+4">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<strong>College Management System</strong></p></font>
 				
 				<div class="secondthree">
 					<div class="FIRST">
